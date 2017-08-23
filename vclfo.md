@@ -1,7 +1,7 @@
 
 ## VCLFO
 
-https://github.com/L71/VCLFO
+[https://github.com/L71/VCLFO|(https://github.com/L71/VCLFO)
 
 An 8HP wide LFO/VCO module with voltage control over frequency. 
 
