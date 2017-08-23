@@ -1,8 +1,10 @@
-## github.com/l71
+## github.com/l71 * introduction
 
 Hello and welcome! :)
 
 This page is maintained by me, Lars Bengtsson. 
+
+** note: this site is currently under construction **
 
 This site (mostly) contains additional information and build notes about the series of Eurorack synthesizer modules that I have built. The actual files can be found in these [GIT repositories](https://github.com/L71?tab=repositories).  
 
@@ -13,7 +15,7 @@ Actual testing is usually limited to "sounds about right" or "cool, it seems to 
 
 The modules will fit in a standard 19" rack as specified [here](http://www.doepfer.de/a100_man/a100m_e.htm) with holes for 3mm M3 screws. 
 
-### Modules
+## Eurorack Synth Modules
 
 - [VCLFO](vclfo.md) - an LFO/VCO module with voltage control of frequency 
 - [MS20 VCF](ms20vcf.md) - a filter module derived from the Korg MS20 synth filter 
