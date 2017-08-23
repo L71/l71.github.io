@@ -37,7 +37,7 @@ In some cases, "tall trimmer" type pots [like these](https://www.thonk.co.uk/sho
 Some modules also have holes in both panels and PCbs for 10mm spacer screws to help with mechanical stability. Use these when available! :)
 
 
-## Components
+### Components
 
 Most modules use regular thru-hole components but a few are built with 0603 SMDs and there are even one or two that use a mix. 
 The SMD boards have the user facing components (jacks, pots, switches) on one side and the actual electronics on the other side of the PCB. 
