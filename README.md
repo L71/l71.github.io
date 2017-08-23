@@ -23,6 +23,8 @@ The modules will fit in a standard 19" rack as specified [here](http://www.doepf
 - [MS20 VCF](ms20vcf.html) - a filter module derived from the Korg MS20 synth filter 
 - [Bleep Drum](https://github.com/L71/BleepDrum-Eurorack) (repository link) - The Bleep Labs [Bleep Drum](http://bleeplabs.com/product/bleep-drum-midi/) Arduino drum machine, Eurorackified by me
 
+_more to be added..._
+
 ## Other stuff
 
 _under construction_ 
