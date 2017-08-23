@@ -20,12 +20,12 @@ The typeface used is [My Underwood](https://www.fontsquirrel.com/fonts/my-underw
 
 A recent experiment with panels on PCBs manufactured by PCBway.com turned out great so this method for panel creation may be used from now on instead. 
 
-** note ** the earliest modules (the 0xNN named ones) were used with a rack that had M2.5 screws instead of M3. Because of this the panels holes are a bit too close - you might need to adjust these (about 1/40" IIRC) to make your panels fit the rack if using M3s. 
+**note** the earliest modules (the 0xNN named ones) were used with a rack that had M2.5 screws instead of M3. Because of this the panels holes are a bit too close - you might need to adjust these (about 1/40" IIRC) to make your panels fit the rack if using M3s. 
 
 
 ### Mechanical details
 
-** note ** the early 0xNN named modules do not adhere to this
+**note** the early 0xNN named modules do not adhere to this
 
 The modules use "Thonkiconn" PJ301M-12 jacks, available from [Thonk](https://www.thonk.co.uk/). These are 10mm high from the PCB to the top of their body (and the panel). 
 
