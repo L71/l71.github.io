@@ -17,8 +17,8 @@ The modules will fit in a standard 19" rack as specified [here](http://www.doepf
 
 ## Eurorack Synth Modules
 
-- [VCLFO](vclfo.md) - an LFO/VCO module with voltage control of frequency 
-- [MS20 VCF](ms20vcf.md) - a filter module derived from the Korg MS20 synth filter 
+- [VCLFO](vclfo.html) - an LFO/VCO module with voltage control of frequency 
+- [MS20 VCF](ms20vcf.html) - a filter module derived from the Korg MS20 synth filter 
 
 
 ## Other stuff
