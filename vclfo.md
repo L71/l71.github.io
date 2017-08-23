@@ -10,7 +10,8 @@ An 8HP wide LFO/VCO module with voltage control over frequency.
 - separate triangle/ramp and square wave outputs, each with level adjustment
 - switch for ramp or triangle output (also transforms the square output into a pulse output)
 
-![image](vclfo.jpeg)
+![image](vclfo.jpeg) ![image](vclfo_side_view.jpeg)
+
 
 . . . . .
 
