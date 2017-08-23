@@ -7,6 +7,8 @@ I'm using Eagle by Autodesk (formerly Cadsoft) for schematics and PCB CAD.
 
 Until now I have used [OSH Park](https://oshpark.com) for PCB manufacturing but may swap to PCBway in the future - we'll see. Because of this most (all?) Eagle board files until now include OSH Park's design rules.
 
+All PCBs are designed with industrial production in mind and might not be suitable for etching in ones kitchen.
+
 
 ### Eurorack Module Panels
 
@@ -33,6 +35,20 @@ Any other potentiometer with the same PCB footprint should work - but some may n
 In some cases, "tall trimmer" type pots [like these](https://www.thonk.co.uk/shop/ttpots/) are used instead of the common ones with a separate knob. This is not noted in the schematics. 
 
 Some modules also have holes in both panels and PCbs for 10mm spacer screws to help with mechanical stability. Use these when available! :)
+
+
+## Components
+
+Most modules use regular thru-hole components but a few are built with 0603 SMDs and there are even one or two that use a mix. 
+The SMD boards have the user facing components (jacks, pots, switches) on one side and the actual electronics on the other side of the PCB. 
+
+Sources: 
+- [Thonk](https://www.thonk.co.uk/) - jacks, potentiometers, knobs
+- [Tayda](http://www.taydaelectronics.com/) - potentiometers, some knobs, bulk components
+- [TME](http://www.tme.eu/en/) - LEDs and photoresistors for homemade vactrols, bulk components
+
+I also occasionally buy from Electrokit.com, Mouser, Farnell and Digikey. 
+
 
 
 
