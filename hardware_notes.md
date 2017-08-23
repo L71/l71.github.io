@@ -29,8 +29,8 @@ A recent experiment with panels on PCBs manufactured by PCBway.com turned out gr
 
 The modules use "Thonkiconn" PJ301M-12 jacks, available from [Thonk](https://www.thonk.co.uk/). These are 10mm high from the PCB to the top of their body (and the panel). 
 
-Potentiometers used are (usually) Alpha 9mm types from the same source (or from Tayda Electronics).
-Any other potentiometer with the same PCB footprint should work - but some may not adapt as well with the panels. Some of the modules structural integrity will depend a bit on the potentiometers beeing screwed tightly to the panel - when using the mentioned plastic panel the whole thing will be a bit too flexible if this is not done. 
+Potentiometers used are (usually) Alpha 9mm types from the same source (or from Tayda Electronics). These are - as are the jacks - 10mm high from the PCB to the panel. 
+Any other potentiometer with the same PCB footprint should work - but some may not adapt as well with the panels. Some of the modules structural integrity will depend on the potentiometers beeing screwed tightly to the panel - when using the mentioned plastic panel the whole thing will be a bit too flexible if this is not done. 
 
 In some cases, "tall trimmer" type pots [like these](https://www.thonk.co.uk/shop/ttpots/) are used instead of the common ones with a separate knob. This is not noted in the schematics. 
 
