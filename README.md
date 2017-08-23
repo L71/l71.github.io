@@ -15,6 +15,8 @@ Actual testing is usually limited to "sounds about right" or "cool, it seems to 
 
 The modules will fit in a standard 19" rack as specified [here](http://www.doepfer.de/a100_man/a100m_e.htm) with holes for 3mm M3 screws. 
 
+** see also the [hardware notes](hardware_notes.html) ** 
+
 ## Eurorack Synth Modules
 
 - [VCLFO](vclfo.html) - an LFO/VCO module with voltage control of frequency 
