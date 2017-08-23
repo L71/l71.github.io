@@ -4,7 +4,7 @@ Hello and welcome! :)
 
 This page is maintained by me, Lars Bengtsson. 
 
-** note: this site is currently under construction **
+**note: this site is currently under construction**
 
 This site (mostly) contains additional information and build notes about the series of Eurorack synthesizer modules that I have built. The actual files can be found in these [GIT repositories](https://github.com/L71?tab=repositories).  
 
@@ -15,7 +15,7 @@ Actual testing is usually limited to "sounds about right" or "cool, it seems to 
 
 The modules will fit in a standard 19" rack as specified [here](http://www.doepfer.de/a100_man/a100m_e.htm) with holes for 3mm M3 screws. 
 
-** see also the [hardware notes](hardware_notes.html) ** 
+**see also the [hardware notes](hardware_notes.html)** 
 
 ## Eurorack Synth Modules
 
