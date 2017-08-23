@@ -1,6 +1,8 @@
 
 ## VCLFO
 
+https://github.com/L71/VCLFO
+
 An 8HP wide LFO/VCO module with voltage control over frequency. 
 
 - Three frequency ranges, can go from minute long periods up to full audio range
