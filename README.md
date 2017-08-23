@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## github.com/l71
 
-You can use the [editor on GitHub](https://github.com/L71/l71.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello and welcome! :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is maintained by me, Lars Bengtsson. 
 
-### Markdown
+This site (mostly) contains additional information and build notes about the series of Eurorack synthesizer modules that I have built. The actual files can be found in these [GIT repositories](https://github.com/L71?tab=repositories).  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These should not be hard to build by experienced DIYers but they are not very beginner-friendly - there are no step-by-step guides here, nor will I be able to provide any support for builders. 
 
-```markdown
-Syntax highlighted code block
+The modules have been built by me and they work more or less as intended but they may not always adhere exactly to the established Eurorack synth signal level [specifications](http://www.doepfer.de/a100_man/a100t_e.htm) even if these have been used as guidelines for their construction.
+Actual testing is usually limited to "sounds about right" or "cool, it seems to work!" so breadboarding the circuit and testing it for yourself might be in order.  
 
-# Header 1
-## Header 2
-### Header 3
+The modules will fit in a standard 19" rack as specified [here](http://www.doepfer.de/a100_man/a100m_e.htm) with holes for 3mm M3 screws. 
 
-- Bulleted
-- List
+### Modules
 
-1. Numbered
-2. List
+- [VCLFO](vclfo.md) - an LFO/VCO module with voltage control of frequency 
+- [MS20 VCF](ms20vcf.md) - a filter module derived from the Korg MS20 synth filter 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Other stuff
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+_under construction_ 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/L71/l71.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
