@@ -10,7 +10,7 @@ The filter has a very wide frequency range and can be used as a lowpass gate. It
 
 The filter can also be used to create synth drum type sounds if used with an envelope generator connected to a CV input and the peak/resonance control turned up. 
 
-This is also the first time I used a circuit board for the panel. Very pleased with the result. :) 
+This is also the first time I used a circuit board for the panel (manufactured at PCBWay.com). I'm very pleased with the result. :) 
 
 ![image](ms20vcf.jpg)
 
