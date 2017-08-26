@@ -10,3 +10,9 @@ The filter has a very wide frequency range and can be used as a lowpass gate. It
 
 The filter can also be used to create synth drum type sounds if used with an envelope generator connected to a CV input and the peak/resonance control turned up. 
 
+
+![image](ms20vcf.jpg)
+
+
+Schematic, PCB and panel licensed [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) 
+
