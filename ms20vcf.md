@@ -17,6 +17,6 @@ This is also the first time I used a circuit board for the panel (manufactured a
 ![image](ms20vcf.jpg)
 
 
-Schematic, PCB and panel licensed [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) 
+The schematic, PCB and panel files are licensed [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) 
 
 * note: the panel .svg file for laser cutting has not been verified to be correct. 
