@@ -19,4 +19,4 @@ This is also the first time I used a circuit board for the panel (manufactured a
 
 The schematic, PCB and panel files are licensed [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) 
 
-note: the panel .svg file for laser cutting has not been verified to be correct. 
+note: the panel .svg file for laser cutting has not been verified to be correct and the PCB panel file may be modified compared to the photo. 
