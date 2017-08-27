@@ -1,5 +1,7 @@
 ## MS20 VCF module
 
+[https://github.com/L71/MS20VCF](https://github.com/L71/MS20VCF)
+
 This Eurorack module is base on this schematic:
 [http://electro-music.com/wiki/pmwiki.php?n=Schematics.KorgLateMS20Filter](http://electro-music.com/wiki/pmwiki.php?n=Schematics.KorgLateMS20Filter)
 
