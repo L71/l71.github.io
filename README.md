@@ -1,12 +1,12 @@
-## github.com/l71 * introduction
+## Introduction
 
 Hello and welcome! :)
 
 This page is maintained by me, Lars Bengtsson. 
 
-These pages contain additional information and build notes about the series of Eurorack synthesizer modules that I have built and also some other electronics and code. The actual files can be found in these [GIT repositories](https://github.com/L71?tab=repositories).  
+These pages contain information and some build notes mostly about the series of Eurorack synthesizer modules that I have built. The actual files can be found in these [GIT repositories](https://github.com/L71?tab=repositories).  
 
-The modules should not be hard to build by experienced DIYers but that is not to say that they are beginner-friendly - there are no step-by-step guides here, no parts lists, nor will I be able to provide any support for builders. 
+The modules should not be hard to build by experienced DIYers but that is not to say that they are beginner-friendly - there are no step-by-step guides here, no parts lists, nor will I be able to provide much help. 
 
 The modules have been built by me and they work more or less as intended but they may not always adhere exactly to the established Eurorack synth signal level [specifications](http://www.doepfer.de/a100_man/a100t_e.htm) even if these have been used as guidelines for their construction.
 Actual testing is usually limited to "sounds about right", "cool, it seems to work!" and "phew, no smoke!" so breadboarding the circuits and testing them yourself might be in order.  
