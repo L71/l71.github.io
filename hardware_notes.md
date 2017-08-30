@@ -27,19 +27,20 @@ A recent experiment with panels on PCBs manufactured by PCBway.com turned out gr
 
 **note** the early 0xNN named modules do not adhere to this
 
-The modules use "Thonkiconn" PJ301M-12 jacks, available from [Thonk](https://www.thonk.co.uk/). These are 10mm high from the PCB to the top of their body (and the panel) and have round 6.35mm shafts so the matching knobs can be screwed on in any direction. 
+The modules use "Thonkiconn" PJ301M-12 jacks, available from [Thonk](https://www.thonk.co.uk/). These are 10mm high from the PCB to the top of their body (and the panel).
 
-Potentiometers used are (usually) Alpha 9mm types from the same source (or from Tayda Electronics). These are - as are the jacks - 10mm high from the PCB to the panel. 
+Potentiometers used are (usually) Alpha 9mm types from the same source (or from Tayda Electronics). These are - as are the jacks - 10mm high from the PCB to the panel. (note: if there is a small metal tab sticking up from the body into the panel, this needs to be cut off before use.) 
+
 Any other potentiometer with the same PCB footprint (ALPS etc. ...) should work but some may not adapt as well (or at all) with the panels. Some of the modules structural integrity will depend on the potentiometers being screwed tightly to the panel - when using the mentioned plastic panel the whole thing will be a bit too flexible if this is not done. 
 
 In some places "tall trimmer" type pots [like these](https://www.thonk.co.uk/shop/ttpots/) are used instead of the common ones with a separate larger knob. This is not noted in the schematics. 
 
-Some modules also have holes in both panels and PCbs for 10mm spacer screws to help with mechanical stability. Use these when available! :)
+Some modules also have holes in both panels and PCBs for 10mm spacer screws to help with mechanical stability. Use these when available!
 
 About knobs: Use any that you find attractive and that fits the shaft of your favourite potentiometers. 
-If you use pots with "D" type shafts, be aware that not all knobs have the D shaped hole in the same direction. Also, my SMD 2xVCA and 3xCV modules actually have their pots backwards compared to the other modules since I had a bunch of such backwards knobs I wanted to use. 
+If you use pots with "D" type shafts, be aware that not all knobs have the flat "D" shape in the hole in the same direction. Also, my SMD 2xVCA and 3xCV modules actually have their pots backwards compared to the other modules since I had a bunch of such backwards D-knobs that I wanted to use. 
 
-The approximate intended knob size can be seen in the (possibly hidden) "knob outlines" layer in the panel SVG files. 
+The approximate intended knob size can be seen in the (possibly hidden) "knob outlines" layer in the panel SVG files (if present). 
 
 ### Components
 
